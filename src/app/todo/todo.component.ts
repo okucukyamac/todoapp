@@ -33,6 +33,7 @@ export class TodoComponent {
     }
     else {
       alert("bilgi giriniz.")
+      
     }
   }
 
